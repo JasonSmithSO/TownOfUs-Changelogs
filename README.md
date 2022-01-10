@@ -5,7 +5,7 @@ This repository is made for changelogs of the popular Among Us mod called TownOf
 # TownOfUs-R Changelogs
 
 
-## eDonnes & TownOfUs Team
+## Donners & TownOfUs-R Team
 
 <details>
   <summary> Changelog </summary>
